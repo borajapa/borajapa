@@ -21,7 +21,8 @@
 <img src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor" alt="sequelize" width="20" height="20"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="20" height="20"/>
 <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="20" height="20"/>
-<img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongodb" width="20" height="20"/></p><p align="center">
+<img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongodb" width="20" height="20"/>
+<img src="https://symbols.getvecta.com/stencil_82/66_graphql-icon.291fc05a38.svg" alt="greaphql" width="20" height="20"/></p><p align="center"> 
 </p>
 
 <p align="center">
