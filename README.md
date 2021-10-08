@@ -2,6 +2,8 @@
 <h3 align="center">A student in training and a trained enthusiast.</h3>
 
 - 🔭 I’m currently working on [CYTEI](https://github.com/cytei)
+ 
+- 🔭 I’m currently a intern on [COOPERSYSTEM]
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Python, GraphQL, NodeJS**
 
@@ -24,7 +26,6 @@
 <a href="https://www.fb.com/eiborajapa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="borajapa" height="30" width="30" /></a>
 <a href="https://www.instagram.com/_borajapa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="borajapa" height="30" width="30" /></a>
 </p>
-
 
 <!--
 **borajapa/borajapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
