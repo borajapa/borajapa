@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CYTEI](https://github.com/cytei)
  
-- 🔭 I’m currently a intern on [COOPERSYSTEM]
+- 🔭 I'm currently an intern on COOPERSYSTEM
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Python, GraphQL, NodeJS**
 
