@@ -16,11 +16,11 @@
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3"  width="20" height="20"/>
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5"  width="20" height="20"/>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="linux" width="20" height="20"/></p><p align="center">
-<img src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor" alt="sequelize" width="20" height="20"/></p><p align="center">
-<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="20" height="20"/></p><p align="center">
-<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="20" height="20"/></p><p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p>
+<img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="linux" width="20" height="20"/></p>
+<img src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor" alt="sequelize" width="20" height="20"/></p>
+<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="20" height="20"/></p>
+<img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="20" height="20"/>
 <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongodb" width="20" height="20"/></p><p align="center">
 </p>
 
