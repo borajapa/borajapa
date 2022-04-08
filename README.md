@@ -1,7 +1,5 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm João Henrique</h1>
 <h3 align="center">A student in training and a trained enthusiast.</h3>
-
-- 🔭 I’m currently working on [CYTEI](https://github.com/cytei)
  
 - 🔭 I'm currently an intern on COOPERSYSTEM
 
