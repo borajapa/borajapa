@@ -1,9 +1,9 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm João Henrique</h1>
 <h3 align="center">A student in training and a trained enthusiast.</h3>
  
-- 🔭 I'm currently an intern on COOPERSYSTEM
+- 🔭 I'm currently working on COOPERSYSTEM as junior developer!
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Python, GraphQL, NodeJS**
+- 🌱 I’m currently working with **JavaScript, Java, and NodeJS** and learning a lot of other stuff! 
 
 - 📫 How to reach me **jhk.ferreira@gmail.com**
 
